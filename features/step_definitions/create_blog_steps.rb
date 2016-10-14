@@ -1,0 +1,1 @@
+Given /the blog is set up/
